@@ -1,5 +1,27 @@
+* {
+    background-color: black;
+}
+
+header {
+    font-size: x-large;
+    text-decoration: line-through;
+    color: goldenrod;
+    font-weight: bold;
+    text-align: center;
+    margin: 25px;
+}
+
 .box {
-    background-color: blanchedalmond
-    height: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 12px;
+    text-align: center;
+    padding: 5px;
+    border: 120px solid ghostwhite;
+    background-color: blanchedalmond;
+    width: 100px;
+    height: 100px;
     
+
 }
